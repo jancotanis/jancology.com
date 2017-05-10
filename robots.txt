@@ -1,0 +1,8 @@
+#
+# robots.txt for http://jancology.com/
+#
+
+# exclude some access-controlled areas
+User-agent: *
+Disallow: /share
+Disallow: /stats
