@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>Jancology Nikon Archive</title>
+<link>http://jancology.com/blog/</link>
+<description>One of the zillion personal weblogs.</description>
+<dc:language>en-us</dc:language>
+<dc:creator>janco.tanis@jancology.com</dc:creator>
+<dc:date>2009-05-24T14:35:44+01:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.35" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+<item>
+<title>Nikon D3 Albino</title>
+<link>http://jancology.com/blog/archives/2009/05/24/nikon_d3_albino.html</link>
+<description> The Nikon D3 albino...</description>
+<guid isPermaLink="false">689@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2009-05-24T14:35:44+01:00</dc:date>
+</item>
+<item>
+<title>A Nikon surprise</title>
+<link>http://jancology.com/blog/archives/2009/04/14/a_nikon_surprise.html</link>
+<description> Nikon announced the Nikon D5000. This camera has a few surprises (for me): The &apos;name&apos; -- Looking at the name I would expect and entry level camera. One which is set below the Nikon D40 for example. Looking at...</description>
+<guid isPermaLink="false">685@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2009-04-14T19:24:09+01:00</dc:date>
+</item>
+<item>
+<title>Nikon at the Movies</title>
+<link>http://jancology.com/blog/archives/2009/01/17/nikon_at_the_movies.html</link>
+<description> The Nikon F as used at Dream Girls. The Nikon F started the F range that has 6 models up to today. This was Nikon&apos;s first professional camera, it had an impressive series of lenses from 21mm to 1000mm,...</description>
+<guid isPermaLink="false">674@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2009-01-17T16:48:28+01:00</dc:date>
+</item>
+<item>
+<title>The X Factor</title>
+<link>http://jancology.com/blog/archives/2008/11/29/the_x_factor.html</link>
+<description>The Nikon D3x is to be announced on Monday. According to the leaked Nikon specs in the NPS brochure, everything seems valid from the D3 firmware leak. It has 24.5 mpix, a D3 body, 5 pictures a sec frame rate...</description>
+<guid isPermaLink="false">671@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2008-11-29T14:57:51+01:00</dc:date>
+</item>
+<item>
+<title>Nikon D90 and D3x</title>
+<link>http://jancology.com/blog/archives/2008/08/17/nikon_d90_and_d3x.html</link>
+<description>Although these rumors are going on for some time, I expect both camera&apos;s to be announced before Photokina in September 2008. Both these camera&apos;s are expected to be announced August 27th. The D90, which was already expected as successor of...</description>
+<guid isPermaLink="false">668@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2008-08-17T15:44:46+01:00</dc:date>
+</item>
+<item>
+<title>Nikon D700 announced</title>
+<link>http://jancology.com/blog/archives/2008/07/01/nikon_d700_announced.html</link>
+<description>Ok it&apos;s for real now, a D3 in a D300 body. A full frame sensor, the high ISOs and even a few extra features like a dust shaking sensor and a flash. A few things have been ripped of so...</description>
+<guid isPermaLink="false">667@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2008-07-01T19:09:59+01:00</dc:date>
+</item>
+<item>
+<title>Nikon D700 in a magazine</title>
+<link>http://jancology.com/blog/archives/2008/06/30/nikon_d700_in_a_magazine.html</link>
+<description> After the previosu D700 images were identified as fake by engadget, we get another spyshot. D700, compared to the D3, with a slightly slower frame rate and 95% frame coverage....</description>
+<guid isPermaLink="false">666@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2008-06-30T22:38:38+01:00</dc:date>
+</item>
+<item>
+<title>Nikon D700, what&apos;s in a name</title>
+<link>http://jancology.com/blog/archives/2008/06/19/nikon_d700_whats_in_a_name.html</link>
+<description>It seems that Nikon is making room between the numbers. The current prosumer flagship, the Nikon D300 is, is accompanied by the D700 FX. It looks like it is the exact same as the D3 in a D300 body or...</description>
+<guid isPermaLink="false">664@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2008-06-19T19:12:12+01:00</dc:date>
+</item>
+<item>
+<title>Nikon D3x Rumors</title>
+<link>http://jancology.com/blog/archives/2008/04/16/nikon_d3x_rumors.html</link>
+<description> Althougn a Nikon D90 is expected before this summer as a successor to the Nikon D80, there aren&apos;t many rumors found. The only things popping up is the fake D90 as shown here. The rumors for the Nikon D3x...</description>
+<guid isPermaLink="false">660@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2008-04-16T19:43:34+01:00</dc:date>
+</item>
+<item>
+<title>Nikon Coolpix P80</title>
+<link>http://jancology.com/blog/archives/2008/04/11/nikon_coolpix_p80.html</link>
+<description> Nikon has announced a new camera, the Coolpix P80. As a former Coolpix 5700 user, this camera looks interesting. It has a whopping 18x zoomlens with VR and a 2.7&quot; LCD on the back. What I like is the...</description>
+<guid isPermaLink="false">656@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2008-04-11T19:27:38+01:00</dc:date>
+</item>
+<item>
+<title>Nikon D60</title>
+<link>http://jancology.com/blog/archives/2008/01/29/nikon_d60.html</link>
+<description>Today Nikon announced the new D60. If you showed me that cam I would have guessed it was a D40 or D40x. I do not see a difference!. If you ask me, the D40x had to be called D60 from...</description>
+<guid isPermaLink="false">653@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2008-01-29T19:51:56+01:00</dc:date>
+</item>
+<item>
+<title>Nikon 90 years</title>
+<link>http://jancology.com/blog/archives/2007/10/19/nikon_90_years.html</link>
+<description></description>
+<guid isPermaLink="false">645@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2007-10-19T19:38:23+01:00</dc:date>
+</item>
+<item>
+<title>DPReview Nikon D3 Handson Preview</title>
+<link>http://jancology.com/blog/archives/2007/09/22/dpreview_nikon_d3_handson_preview.html</link>
+<description> As expected, DPReview has published the Nikon D3 preview. It took an additional two weeks over the D300 preview and people started to wonder if Phil was allowed to preview the camera or if he even had it! THat...</description>
+<guid isPermaLink="false">639@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2007-09-22T10:03:39+01:00</dc:date>
+</item>
+<item>
+<title>DPReview Nikon D300 Handson Preview</title>
+<link>http://jancology.com/blog/archives/2007/09/10/dpreview_nikon_d300_handson_preview.html</link>
+<description> DPReview has published the Nikon D300 preview. A few things are clearly shown in the preview: The amazing high resolution 3inch LCD display with a clear difference between the 640 x 480 of the Nikon D300 and a 320...</description>
+<guid isPermaLink="false">634@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2007-09-10T19:54:13+01:00</dc:date>
+</item>
+<item>
+<title>Nikon D3 and D300 announced</title>
+<link>http://jancology.com/blog/archives/2007/09/03/nikon_d3_and_d300_announced.html</link>
+<description> Yes, I know, I missed this by a week or so... Just happened to be on holiday when the 4 most important camera&apos;s of 2007 were announced. Nikon announced its two top of the line camera&apos;s the new Nikon...</description>
+<guid isPermaLink="false">633@http://jancology.com/blog/</guid>
+<dc:subject>Nikon</dc:subject>
+<dc:date>2007-09-03T21:48:24+01:00</dc:date>
+</item>
+
+
+</channel>
+</rss>
