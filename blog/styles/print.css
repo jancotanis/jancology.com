@@ -1,0 +1,42 @@
+/* default html styles  */
+body {
+ background: white;
+ font-size: 12pt;
+ margin: 0.5cm;
+}
+
+.hide {
+ display: none;
+}
+/* -- side bar ------------------------------ */
+
+#sidebar, #comment-form, #bottom {
+ display: none;
+}
+#banner, #banner1, #banner2, #banner3, #banner4, #banner5, #banner6 {
+ height: auto;
+ text-align: right;
+ color: black;
+ background: transparent;
+}
+#blog-page {
+ margin: 1em;
+ border: 0px;
+ width: 100%;
+}
+
+#blog-content {
+ padding: 1em;
+ margin: 0;
+ text-align: left;
+}
+
+/* links */
+.log-main a:link:after, .log-main a:visited:after {
+  content: " (" attr(href) ") ";
+  font-size: 90%;
+}
+
+.log-main, .log-more {
+  font-family: georgia;
+}
