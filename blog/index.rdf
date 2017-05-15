@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://jancology.com/blog/">
+<title>Jancology</title>
+<link>http://jancology.com/blog/</link>
+<description>One of the zillion personal weblogs.</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2011-06-15T22:07:29+01:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.35" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://jancology.com/blog/archives/2011/06/15/the_amazing_ketchup_scooper.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2011/03/28/awsome_drummer.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2011/03/01/blurred_wood.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2011/02/01/blurred_roses.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2011/01/14/quote_of_the_day.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2011/01/08/retro_lambo.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2011/01/01/blurred_pyjamas.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2010/12/10/quote_of_the_day.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2010/12/01/blurred_yellow.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2010/11/23/quote_of_the_day.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2010/11/22/genus_aves_iratus.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2010/11/21/phyrura.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2010/11/15/zootool.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2010/11/01/stone_cloth.html" />
+<rdf:li rdf:resource="http://jancology.com/blog/archives/2010/10/31/baloon_gripper.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://jancology.com/blog/archives/2011/06/15/the_amazing_ketchup_scooper.html">
+<title>The Amazing Ketchup scooper</title>
+<link>http://jancology.com/blog/archives/2011/06/15/the_amazing_ketchup_scooper.html</link>
+<description></description>
+<dc:subject>www</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2011-06-15T22:07:29+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2011/03/28/awsome_drummer.html">
+<title>Awsome Drummer</title>
+<link>http://jancology.com/blog/archives/2011/03/28/awsome_drummer.html</link>
+<description></description>
+<dc:subject>www</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2011-03-28T22:33:30+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2011/03/01/blurred_wood.html">
+<title>Blurred Wood</title>
+<link>http://jancology.com/blog/archives/2011/03/01/blurred_wood.html</link>
+<description><![CDATA[ Blurred Woods, october 2010; fuji f11; &copy; janco tanis...]]></description>
+<dc:subject>Photography</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2011-03-01T19:11:44+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2011/02/01/blurred_roses.html">
+<title>Blurred Roses</title>
+<link>http://jancology.com/blog/archives/2011/02/01/blurred_roses.html</link>
+<description><![CDATA[ Blurred Roses, august 2010; fuji f11; &copy; janco tanis...]]></description>
+<dc:subject>Photography</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2011-02-01T18:55:47+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2011/01/14/quote_of_the_day.html">
+<title>Quote of the Day</title>
+<link>http://jancology.com/blog/archives/2011/01/14/quote_of_the_day.html</link>
+<description>&quot;Before I speak I have something Important to say&quot; -- Groucho Marx...</description>
+<dc:subject>Quote of the Day</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2011-01-14T22:20:11+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2011/01/08/retro_lambo.html">
+<title>Retro lambo</title>
+<link>http://jancology.com/blog/archives/2011/01/08/retro_lambo.html</link>
+<description>A gorgious Lamborghini-Miura retro model. Also checkout this link for more......</description>
+<dc:subject>Art</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2011-01-08T00:06:40+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2011/01/01/blurred_pyjamas.html">
+<title>Blurred Pyjamas</title>
+<link>http://jancology.com/blog/archives/2011/01/01/blurred_pyjamas.html</link>
+<description><![CDATA[ Blurred Pyjamas, september 2009; fuji f11; &copy; janco tanis...]]></description>
+<dc:subject>Photography</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2011-01-01T18:53:35+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2010/12/10/quote_of_the_day.html">
+<title>Quote of the Day</title>
+<link>http://jancology.com/blog/archives/2010/12/10/quote_of_the_day.html</link>
+<description>&quot;Simplicity is the ultimate sophistication&quot; -- Leonardo da Vinci...</description>
+<dc:subject>Quote of the Day</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2010-12-10T22:15:22+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2010/12/01/blurred_yellow.html">
+<title>Blurred Yellow</title>
+<link>http://jancology.com/blog/archives/2010/12/01/blurred_yellow.html</link>
+<description><![CDATA[ Blurred Yellow, Stellendam, may 2010; iPhone 3gs; &copy; janco tanis...]]></description>
+<dc:subject>Photography</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2010-12-01T18:50:52+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2010/11/23/quote_of_the_day.html">
+<title>Quote of the Day</title>
+<link>http://jancology.com/blog/archives/2010/11/23/quote_of_the_day.html</link>
+<description> &quot;If you dig a hole and it’s in the wrong place, digging it deeper isn’t going to help.&quot; -- Seymour Chwast...</description>
+<dc:subject>Quote of the Day</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2010-11-23T21:21:01+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2010/11/22/genus_aves_iratus.html">
+<title>Genus Aves Iratus</title>
+<link>http://jancology.com/blog/archives/2010/11/22/genus_aves_iratus.html</link>
+<description> From the famous game Angry Birds a drawing by zero lives...</description>
+<dc:subject>Drawing</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2010-11-22T23:01:07+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2010/11/21/phyrura.html">
+<title>Phyrura</title>
+<link>http://jancology.com/blog/archives/2010/11/21/phyrura.html</link>
+<description><![CDATA[ Phyrura, Middelharnis, November 2010, p7000, &copy; janco tanis...]]></description>
+<dc:subject>Photography</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2010-11-21T14:42:27+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2010/11/15/zootool.html">
+<title>ZooTool</title>
+<link>http://jancology.com/blog/archives/2010/11/15/zootool.html</link>
+<description>The Tool to catalog your image findings on the internets: #zootool-badge { width: 188px; line-height: 0px; overflow: hidden; } #zootool-badge img { border: 0px; } #zootool-badge ul { width: 200px; margin: 0px; padding: 5px; } #zootool-badge li { float: left;...</description>
+<dc:subject>www</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2010-11-15T22:10:18+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2010/11/01/stone_cloth.html">
+<title>Stone Cloth</title>
+<link>http://jancology.com/blog/archives/2010/11/01/stone_cloth.html</link>
+<description><![CDATA[ Stone cloth, France, may 2010; fuji F11; &copy; janco tanis...]]></description>
+<dc:subject>Photography</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2010-11-01T18:45:31+01:00</dc:date>
+</item>
+<item rdf:about="http://jancology.com/blog/archives/2010/10/31/baloon_gripper.html">
+<title>Baloon gripper</title>
+<link>http://jancology.com/blog/archives/2010/10/31/baloon_gripper.html</link>
+<description>Balloon filled with ground coffee makes ideal robotic gripper. The gripper uses the same phenomenon that makes a vacuum--packed bag of ground coffee so firm; in fact, ground coffee worked very well in the device. But the researchers found a...</description>
+<dc:subject>www</dc:subject>
+<dc:creator>jt</dc:creator>
+<dc:date>2010-10-31T13:13:07+01:00</dc:date>
+</item>
+
+
+</rdf:RDF>

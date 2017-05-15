@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+<service>
+<engineName>Movable Type 3.35</engineName> 
+<engineLink>http://www.sixapart.com/movabletype/</engineLink>
+<homePageLink>http://jancology.com/blog/</homePageLink>
+<apis>
+<api name="MetaWeblog" preferred="true" apiLink="http://jancology.com/mt/mt-xmlrpc.cgi" blogID="2" />
+<api name="Blogger" preferred="false" apiLink="http://jancology.com/mt/mt-xmlrpc.cgi" blogID="2" />
+</apis>
+</service>
+</rsd>
