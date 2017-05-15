@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>Jancology Books Archive</title>
+<link>http://jancology.com/blog/</link>
+<description>One of the zillion personal weblogs.</description>
+<dc:language>en-us</dc:language>
+<dc:creator>janco.tanis@jancology.com</dc:creator>
+<dc:date>2010-04-02T23:13:49+01:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.35" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+<item>
+<title>The Toyota Way; ISBN 0071392319</title>
+<link>http://jancology.com/blog/archives/2010/04/02/the_toyota_way_isbn_0071392319.html</link>
+<description> The company that invented lean production -- Jeffrey Liker I probably bought this for the title and because I was curious what the Toyota way was. It shows the remarkable way of a japanese company to be very repetitive...</description>
+<guid isPermaLink="false">730@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2010-04-02T23:13:49+01:00</dc:date>
+</item>
+<item>
+<title>Liar&apos;s Poker; ISBN 0140143459</title>
+<link>http://jancology.com/blog/archives/2010/03/02/liars_poker_isbn_0140143459.html</link>
+<description> Rising Through the Wreckage on Wall Street -- Michael Lewis This book is about Michael starting a trainee program with Salomon Brothers, moving to London and getting a successful junk bonds broker. It&apos;s about young people on Wall Street...</description>
+<guid isPermaLink="false">729@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2010-03-02T22:45:57+01:00</dc:date>
+</item>
+<item>
+<title>Tribes; ISBN 1591842336</title>
+<link>http://jancology.com/blog/archives/2010/02/02/tribes_isbn_1591842336.html</link>
+<description> We Need You to Lead Us -- Seth Godin My First Seth Godin book was Purple Cow. This was an eye opener for a non marketing guy. Tribes is a different story where you get a sequence of small...</description>
+<guid isPermaLink="false">728@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2010-02-02T22:27:53+01:00</dc:date>
+</item>
+<item>
+<title>Reality Check; ISBN 1591842239</title>
+<link>http://jancology.com/blog/archives/2009/04/18/reality_check_isbn_1591842239.html</link>
+<description> The Irreverent Guide to Outsmarting, Outmanaging, and Outmarketing Your Competition -- Guy Kawasaki Although thick, about 500 pages, it&apos;s an easy read as the chapters are small and each chapter talks about a different subject including a number of...</description>
+<guid isPermaLink="false">687@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2009-04-18T11:17:54+01:00</dc:date>
+</item>
+<item>
+<title>Mastering the Hype Cycle; ISBN 1422121100</title>
+<link>http://jancology.com/blog/archives/2009/03/10/mastering_the_hype_cycle_isbn_1422121100.html</link>
+<description> How to Choose the Right Innovation at the Right Time -- Gartner The hype cycle is an interesting phenomenon for technology. And afterwards it shows the right time to adopt new things like internet in the past to Virtualization...</description>
+<guid isPermaLink="false">681@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2009-03-10T22:12:23+01:00</dc:date>
+</item>
+<item>
+<title>Brain Rules; John Medina; ISBN 0979777704</title>
+<link>http://jancology.com/blog/archives/2009/01/25/brain_rules_john_medina_isbn_0979777704.html</link>
+<description> 12 Principles for Surviving and Thriving at Work, Home, and School -- John Medina This book is about how your brain work. It includes a DVD which shows abstracts of all the chapters. The book is an easy read...</description>
+<guid isPermaLink="false">676@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2009-01-25T13:18:09+01:00</dc:date>
+</item>
+<item>
+<title>Here comes everybody; Clay Shirky; ISBN 1594201536</title>
+<link>http://jancology.com/blog/archives/2008/10/18/here_comes_everybody_clay_shirky_isbn_1594201536.html</link>
+<description> The Power of Organizing Without Organizations -- Clay Shirky This book is in the same category as Wikinomics. How to get things done by others without paying. Ok, this is a bit harsh but I found this book hard...</description>
+<guid isPermaLink="false">677@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2008-10-18T21:44:17+01:00</dc:date>
+</item>
+<item>
+<title>A Perfect Mess</title>
+<link>http://jancology.com/blog/archives/2008/04/14/a_perfect_mess.html</link>
+<description> Ok, I haven&apos;t read this book but this could be something which I should put on the desk in my office!...</description>
+<guid isPermaLink="false">658@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2008-04-14T19:26:43+01:00</dc:date>
+</item>
+<item>
+<title>Wikinomics: How Mass Collaboration Changes Everything; ISBN: 978-1591841388</title>
+<link>http://jancology.com/blog/archives/2008/01/17/wikinomics_how_mass_collaboration_changes_everything_isbn_9781591841388.html</link>
+<description> Don Tapscott and Anthony D. Williams This book is about how economy changed by collaborative concepts. Making business ideas freely available on internet can stimulate people to make use of it and growing your own business. It is also...</description>
+<guid isPermaLink="false">651@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2008-01-17T21:28:07+01:00</dc:date>
+</item>
+<item>
+<title>Made to Stick: Why Some Ideas Survive and Others Die; ISBN: 978-1400064281</title>
+<link>http://jancology.com/blog/archives/2008/01/08/made_to_stick_why_some_ideas_survive_and_others_die_isbn_9781400064281.html</link>
+<description> by Chip Heath and Dan Heath A fantastic and entertaining book about how to communicate ideas so they stuck in peoples minds. If you start reading, you&apos;ll finish it soon. In essence, &quot;Making things Stick&quot; it is just about...</description>
+<guid isPermaLink="false">652@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2008-01-08T21:35:55+01:00</dc:date>
+</item>
+<item>
+<title>The Non-Designer&apos;s Design Book; ISBN 0321193857</title>
+<link>http://jancology.com/blog/archives/2007/07/14/the_nondesigners_design_book_isbn_0321193857.html</link>
+<description> by Robin Williams Ok -- I admit -- I love design... I love holding an iPod. I write my presentations using an apple as this is more fun and might make you a bitmore creative. This book however has...</description>
+<guid isPermaLink="false">513@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2007-07-14T13:26:40+01:00</dc:date>
+</item>
+<item>
+<title>Cost-Based Oracle Fundamentals; ISBN 1590596366</title>
+<link>http://jancology.com/blog/archives/2007/06/22/costbased_oracle_fundamentals_isbn_1590596366.html</link>
+<description> Jonathan Lewis, JL Computer Consultancy This is a very technical and theoretical book about oracle cost based query optimisation fundamentals. POINT . I have worked a day with Jonathan and he knows a lot about oracle optimisation, the hardware...</description>
+<guid isPermaLink="false">465@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2007-06-22T19:46:08+01:00</dc:date>
+</item>
+<item>
+<title>Next: The Future Just Happened</title>
+<link>http://jancology.com/blog/archives/2007/06/06/next_the_future_just_happened.html</link>
+<description> The Future just Happened This book was just written after the dot com hype and the stock market collapsed. It tells a few stories about a 15 year old boy who beats professionals in the stock market and earns...</description>
+<guid isPermaLink="false">611@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2007-06-06T21:32:32+01:00</dc:date>
+</item>
+<item>
+<title>Purple Cow; ISBN 159184021X</title>
+<link>http://jancology.com/blog/archives/2007/03/22/purple_cow_isbn_159184021x.html</link>
+<description> Transform Your Business by Being Remarkable This is a remarkable marketing book by Seth Godin. It is about the fact that advertising for new products does not work anymore nowadays. Consumers are able to tun advertising almost completely off....</description>
+<guid isPermaLink="false">592@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2007-03-22T00:45:03+01:00</dc:date>
+</item>
+<item>
+<title>Top 50 SciFi Books</title>
+<link>http://jancology.com/blog/archives/2007/03/09/top_50_scifi_books.html</link>
+<description>A list of the top 50 science fiction books. I&apos;ve only read the top three... However, there is one book I missed and definately belongs tothe top 10, which is The World of Null A by AE van Vogt. The...</description>
+<guid isPermaLink="false">589@http://jancology.com/blog/</guid>
+<dc:subject>Books</dc:subject>
+<dc:date>2007-03-09T20:46:45+01:00</dc:date>
+</item>
+
+
+</channel>
+</rss>
